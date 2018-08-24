@@ -1,0 +1,698 @@
+Top,Assuntos Relacionadas,Values,Tipo,Termo Buscado,Data de Extração,Periodo
+0,Refrigerador,100,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+1,Brastemp,13,Empresa,GELADEIRA,23/08/2018 11:40,today 1-m
+2,Aço inoxidável,9,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+3,Litro,9,Unidade de medida,GELADEIRA,23/08/2018 11:40,today 1-m
+4,Electrolux,8,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+5,Porta,6,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+6,Casas Bahia,3,Empresa,GELADEIRA,23/08/2018 11:40,today 1-m
+7,Fogão,3,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+8,Pudim,3,Alimento,GELADEIRA,23/08/2018 11:40,today 1-m
+9,Duplex,2,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+10,Forno de micro-ondas,2,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+11,Panasonic,2,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+12,Íman,2,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+13,Cônsul,1,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+14,lavar,1,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+15,Máquina de lavar roupa,1,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+16,Armário,1,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+17,Pontofrio,1,Empresa,GELADEIRA,23/08/2018 11:40,today 1-m
+18,Borracha,1,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+19,Conservação de alimentos,1,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+20,Esmaltec,1,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+21,Presunto,0,Carne de porco,GELADEIRA,23/08/2018 11:40,today 1-m
+22,Manteiga,0,Alimento,GELADEIRA,23/08/2018 11:40,today 1-m
+23,Legume,0,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+24,Bem-estar,0,Assunto,GELADEIRA,23/08/2018 11:40,today 1-m
+0,Fogão,100,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+1,Fogão a lenha,14,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+2,Forno,13,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+3,Brastemp,12,Empresa,FOGÃO,23/08/2018 11:40,today 1-m
+4,Fogão,11,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+5,Electrolux,9,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+6,Aço inoxidável,8,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+7,Vidro,7,Forma de arte visual,FOGÃO,23/08/2018 11:40,today 1-m
+8,Mesa,6,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+9,Refrigerador,6,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+10,Cozinha,5,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+11,Gás,5,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+12,Casas Bahia,4,Empresa,FOGÃO,23/08/2018 11:40,today 1-m
+13,Consul,4,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+14,Churrasco,4,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+15,Magazine Luiza,3,Companhia,FOGÃO,23/08/2018 11:40,today 1-m
+16,Armário,2,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+17,Piso,2,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+18,Esmaltec,2,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+19,Ferro,2,Elemento químico,FOGÃO,23/08/2018 11:40,today 1-m
+20,Temporizador,2,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+21,Pia,2,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+22,Panela,2,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+23,Forno de micro-ondas,1,Assunto,FOGÃO,23/08/2018 11:40,today 1-m
+24,Pontofrio,1,Empresa,FOGÃO,23/08/2018 11:40,today 1-m
+0,Ventilador,100,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+1,Teto,29,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+2,Ventilador de teto,24,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+3,Ar,7,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+4,Motor,6,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+5,Controlo remoto,5,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+6,Instalação,4,Arte,VENTILADOR,23/08/2018 11:40,today 1-m
+7,Turbocompressor,4,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+8,Ar-condicionado,4,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+9,Capacitor,3,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+10,Hélice,3,Meio de propulsão,VENTILADOR,23/08/2018 11:40,today 1-m
+11,Refrigerador,2,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+12,Britânia,2,Goiás,VENTILADOR,23/08/2018 11:40,today 1-m
+13,Lâmpada incandescente,2,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+14,Energia,2,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+15,Velocidade,2,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+16,Vento,2,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+17,Ruído,2,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+18,SPIRIT,2,Área industrial no Rio de Janeiro,VENTILADOR,23/08/2018 11:40,today 1-m
+19,Cadence,1,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+20,Leroy Merlin,1,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+21,Repelente de insetos,1,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+22,Coluna,1,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+23,Relé,1,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+24,Condensador,1,Assunto,VENTILADOR,23/08/2018 11:40,today 1-m
+0,Brastemp,100,Empresa,BRASTEMP,23/08/2018 11:40,today 1-m
+1,Refrigerador,34,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+2,Máquina de lavar roupa,24,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+3,Máquina,22,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+4,lavar,21,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+5,Fogão,18,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+6,Litro,11,Unidade de medida,BRASTEMP,23/08/2018 11:40,today 1-m
+7,Aço inoxidável,10,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+8,Forno de micro-ondas,9,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+9,Roupa,8,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+10,Forno,7,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+11,Fogão,6,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+12,Electrolux,5,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+13,Máquina de lavar louça,5,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+14,Casas Bahia,4,Empresa,BRASTEMP,23/08/2018 11:40,today 1-m
+15,Consul,3,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+16,Secadora de roupas,3,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+17,Seca,2,Tipo de desastre,BRASTEMP,23/08/2018 11:40,today 1-m
+18,Quilograma,2,Unidade básica,BRASTEMP,23/08/2018 11:40,today 1-m
+19,Técnica,2,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+20,Manual de instruções,2,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+21,Gás,2,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+22,Pontofrio,2,Empresa,BRASTEMP,23/08/2018 11:40,today 1-m
+23,Forno Elétrico,2,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+24,Cônsul,1,Assunto,BRASTEMP,23/08/2018 11:40,today 1-m
+0,Cônsul,100,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+1,Consul,83,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+2,Refrigerador,75,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+3,Máquina,33,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+4,Máquina de lavar roupa,32,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+5,Fogão,31,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+6,Litro,28,Unidade de medida,CONSUL,23/08/2018 11:40,today 1-m
+7,lavar,24,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+8,Aço inoxidável,17,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+9,Brastemp,15,Empresa,CONSUL,23/08/2018 11:40,today 1-m
+10,Forno de micro-ondas,14,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+11,Ar,12,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+12,Ar-condicionado,11,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+13,Forno,10,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+14,Fábrica de cerveja,9,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+15,Electrolux,9,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+16,Casas Bahia,9,Empresa,CONSUL,23/08/2018 11:40,today 1-m
+17,Fogão,8,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+18,Magazine Luiza,8,Companhia,CONSUL,23/08/2018 11:40,today 1-m
+19,Vidro,6,Forma de arte visual,CONSUL,23/08/2018 11:40,today 1-m
+20,Manual de instruções,4,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+21,Técnica,4,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+22,BTU,4,Unidade de medida,CONSUL,23/08/2018 11:40,today 1-m
+23,Unidade de tratamento de ar,3,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+24,Gás,3,Assunto,CONSUL,23/08/2018 11:40,today 1-m
+0,Computador,100,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+1,Mesa,6,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+2,Microsoft Windows,6,Sistema operacional,COMPUTADOR,23/08/2018 11:40,today 1-m
+3,Laptop,5,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+4,Unidade central de processamento,3,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+5,Teclado,3,Periférico do computador,COMPUTADOR,23/08/2018 11:40,today 1-m
+6,Dell,3,Empresa,COMPUTADOR,23/08/2018 11:40,today 1-m
+7,Wi-Fi,3,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+8,Computador pessoal,3,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+9,Senha,3,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+10,Instalação,3,Computação,COMPUTADOR,23/08/2018 11:40,today 1-m
+11,Monitor de vídeo,2,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+12,Gamer,2,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+13,Arquivo,2,Tipo de organização,COMPUTADOR,23/08/2018 11:40,today 1-m
+14,Rede de computadores,2,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+15,Positivo Tecnologia,2,Empresa,COMPUTADOR,23/08/2018 11:40,today 1-m
+16,Memória,2,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+17,Unidade de disco rígido,2,Periférico do computador,COMPUTADOR,23/08/2018 11:40,today 1-m
+18,Intel Core i5,2,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+19,Sistema operativo,2,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+20,Escrivaninha,1,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+21,PC Gamer,1,Revista,COMPUTADOR,23/08/2018 11:40,today 1-m
+22,Estante,1,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+23,Antivírus,1,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+24,Computador quântico,0,Assunto,COMPUTADOR,23/08/2018 11:40,today 1-m
+0,Dell,100,Empresa,DELL,23/08/2018 11:40,today 1-m
+1,Laptop,43,Assunto,DELL,23/08/2018 11:40,today 1-m
+2,Dell Inspiron,17,Assunto,DELL,23/08/2018 11:40,today 1-m
+3,Intel Core i7,8,Processador do computador,DELL,23/08/2018 11:40,today 1-m
+4,Intel Core i5,8,Assunto,DELL,23/08/2018 11:40,today 1-m
+5,Microsoft Windows,6,Sistema operacional,DELL,23/08/2018 11:40,today 1-m
+6,Driver de dispositivo,5,Assunto,DELL,23/08/2018 11:40,today 1-m
+7,Computador,5,Assunto,DELL,23/08/2018 11:40,today 1-m
+8,Samsung,5,Corporação,DELL,23/08/2018 11:40,today 1-m
+9,Intel Core i3,4,Processador do computador,DELL,23/08/2018 11:40,today 1-m
+10,Lenovo,4,Empresa,DELL,23/08/2018 11:40,today 1-m
+11,Dell Vostro,4,Assunto,DELL,23/08/2018 11:40,today 1-m
+12,Bateria,3,Eletricidade,DELL,23/08/2018 11:40,today 1-m
+13,Acer Inc.,3,Empresa,DELL,23/08/2018 11:40,today 1-m
+14,Intel,3,Empresa,DELL,23/08/2018 11:40,today 1-m
+15,Teclado,3,Periférico do computador,DELL,23/08/2018 11:40,today 1-m
+16,Dell XPS,3,Computador,DELL,23/08/2018 11:40,today 1-m
+17,Gamer,3,Assunto,DELL,23/08/2018 11:40,today 1-m
+18,Monitor de vídeo,3,Assunto,DELL,23/08/2018 11:40,today 1-m
+19,OptiPlex,2,Assunto,DELL,23/08/2018 11:40,today 1-m
+20,Unidade de disco rígido,2,Periférico do computador,DELL,23/08/2018 11:40,today 1-m
+21,Intel Core,2,Processador do computador,DELL,23/08/2018 11:40,today 1-m
+22,Unidade de Estado Sólido,2,Assunto,DELL,23/08/2018 11:40,today 1-m
+23,Display,2,Assunto,DELL,23/08/2018 11:40,today 1-m
+24,Hewlett-Packard,2,Companhia,DELL,23/08/2018 11:40,today 1-m
+0,Sony,100,Fabricante do computador,SONY,23/08/2018 11:40,today 1-m
+1,Xperia,17,Linha do produto,SONY,23/08/2018 11:40,today 1-m
+2,Televisor,16,Assunto,SONY,23/08/2018 11:40,today 1-m
+3,Telefone celular,10,Assunto,SONY,23/08/2018 11:40,today 1-m
+4,Vegas Pro,10,Software,SONY,23/08/2018 11:40,today 1-m
+5,Som,8,Assunto,SONY,23/08/2018 11:40,today 1-m
+6,VAIO,7,Empresa,SONY,23/08/2018 11:40,today 1-m
+7,Câmera,7,Assunto,SONY,23/08/2018 11:40,today 1-m
+8,Sony Mobile Communications,6,Empresa,SONY,23/08/2018 11:40,today 1-m
+9,BRAVIA,6,Assunto,SONY,23/08/2018 11:40,today 1-m
+10,Polegada,4,Unidade de comprimento,SONY,23/08/2018 11:40,today 1-m
+11,Laptop,4,Assunto,SONY,23/08/2018 11:40,today 1-m
+12,Televisor conectado,4,Assunto,SONY,23/08/2018 11:40,today 1-m
+13,Resolução 4K,4,Assunto,SONY,23/08/2018 11:40,today 1-m
+14,Sony Xperia Z3,3,Assunto,SONY,23/08/2018 11:40,today 1-m
+15,LG Corporation,3,Corporação,SONY,23/08/2018 11:40,today 1-m
+16,Bluetooth,3,Assunto,SONY,23/08/2018 11:40,today 1-m
+17,PlayStation 4,3,Assunto,SONY,23/08/2018 11:40,today 1-m
+18,Auscultadores,3,Assunto,SONY,23/08/2018 11:40,today 1-m
+19,Caixa acústica,3,Assunto,SONY,23/08/2018 11:40,today 1-m
+20,Sony Xperia Z2,2,Assunto,SONY,23/08/2018 11:40,today 1-m
+21,Diodo emissor de luz,2,Assunto,SONY,23/08/2018 11:40,today 1-m
+22,PlayStation,2,Linha do produto,SONY,23/08/2018 11:40,today 1-m
+23,Home theater,2,Assunto,SONY,23/08/2018 11:40,today 1-m
+24,Bateria,2,Eletricidade,SONY,23/08/2018 11:40,today 1-m
+0,Amazon.com,100,Empresa,AMAZON,23/08/2018 11:40,today 1-m
+1,Estados Unidos,11,País na América do Norte,AMAZON,23/08/2018 11:40,today 1-m
+2,Amazon Prime,7,Assunto,AMAZON,23/08/2018 11:40,today 1-m
+3,Livro,6,Assunto,AMAZON,23/08/2018 11:40,today 1-m
+4,Kindle,4,Linha do produto,AMAZON,23/08/2018 11:40,today 1-m
+5,Livraria Saraiva,3,Empresa,AMAZON,23/08/2018 11:40,today 1-m
+6,Amazon Prime Video,3,Assunto,AMAZON,23/08/2018 11:40,today 1-m
+7,Dólar dos Estados Unidos,2,Moeda,AMAZON,23/08/2018 11:40,today 1-m
+8,eBay,2,Empresa,AMAZON,23/08/2018 11:40,today 1-m
+9,Amazon Web Services,2,Assunto,AMAZON,23/08/2018 11:40,today 1-m
+10,Cupom de desconto,1,Assunto,AMAZON,23/08/2018 11:40,today 1-m
+11,Livro digital,1,Encadernação do livro,AMAZON,23/08/2018 11:40,today 1-m
+12,Narguilé,1,Assunto,AMAZON,23/08/2018 11:40,today 1-m
+13,Reino Unido,1,País na Europa,AMAZON,23/08/2018 11:40,today 1-m
+14,Apple,1,Empresa,AMAZON,23/08/2018 11:40,today 1-m
+15,Walmart,1,Companhia,AMAZON,23/08/2018 11:40,today 1-m
+16,Best Buy,1,Empresa,AMAZON,23/08/2018 11:40,today 1-m
+17,Amazon Music,0,Assunto,AMAZON,23/08/2018 11:40,today 1-m
+18,Fnac,0,Empresa,AMAZON,23/08/2018 11:40,today 1-m
+19,Amazon EC2,0,Software,AMAZON,23/08/2018 11:40,today 1-m
+20,.ca,0,Assunto,AMAZON,23/08/2018 11:40,today 1-m
+21,Relógio inteligente,0,Assunto,AMAZON,23/08/2018 11:40,today 1-m
+22,Garmin Forerunner,0,Assunto,AMAZON,23/08/2018 11:40,today 1-m
+0,Lojas Americanas,100,Empresa,LOJAS AMERICANAS,23/08/2018 11:40,today 1-m
+1,Casas Bahia,5,Empresa,LOJAS AMERICANAS,23/08/2018 11:40,today 1-m
+2,Magazine Luiza,4,Companhia,LOJAS AMERICANAS,23/08/2018 11:40,today 1-m
+3,Oferta,3,Assunto,LOJAS AMERICANAS,23/08/2018 11:40,today 1-m
+4,Extra,2,Rede varejista,LOJAS AMERICANAS,23/08/2018 11:40,today 1-m
+5,Pontofrio,2,Empresa,LOJAS AMERICANAS,23/08/2018 11:40,today 1-m
+6,Ricardo Eletro,1,Empresa,LOJAS AMERICANAS,23/08/2018 11:40,today 1-m
+7,Walmart,1,Companhia,LOJAS AMERICANAS,23/08/2018 11:40,today 1-m
+8,Submarino,1,Tipo de embarcação,LOJAS AMERICANAS,23/08/2018 11:40,today 1-m
+9,Loja,1,Assunto,LOJAS AMERICANAS,23/08/2018 11:40,today 1-m
+10,Shoptime,1,Empresa,LOJAS AMERICANAS,23/08/2018 11:40,today 1-m
+11,Lojas Marisa,1,Assunto,LOJAS AMERICANAS,23/08/2018 11:40,today 1-m
+0,Refrigerador,100,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+1,Brastemp,13,Empresa,GELADEIRA,23/08/2018 11:46,today 1-m
+2,Aço inoxidável,9,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+3,Litro,9,Unidade de medida,GELADEIRA,23/08/2018 11:46,today 1-m
+4,Electrolux,8,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+5,Porta,6,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+6,Casas Bahia,3,Empresa,GELADEIRA,23/08/2018 11:46,today 1-m
+7,Fogão,3,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+8,Pudim,3,Alimento,GELADEIRA,23/08/2018 11:46,today 1-m
+9,Duplex,2,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+10,Forno de micro-ondas,2,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+11,Panasonic,2,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+12,Íman,2,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+13,Cônsul,1,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+14,lavar,1,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+15,Máquina de lavar roupa,1,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+16,Armário,1,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+17,Pontofrio,1,Empresa,GELADEIRA,23/08/2018 11:46,today 1-m
+18,Borracha,1,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+19,Conservação de alimentos,1,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+20,Esmaltec,1,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+21,Presunto,0,Carne de porco,GELADEIRA,23/08/2018 11:46,today 1-m
+22,Manteiga,0,Alimento,GELADEIRA,23/08/2018 11:46,today 1-m
+23,Legume,0,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+24,Bem-estar,0,Assunto,GELADEIRA,23/08/2018 11:46,today 1-m
+0,Fogão,100,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+1,Fogão a lenha,15,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+2,Fogão,12,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+3,Forno,11,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+4,Brastemp,10,Empresa,FOGÃO,23/08/2018 11:46,today 1-m
+5,Aço inoxidável,10,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+6,Electrolux,9,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+7,Vidro,8,Forma de arte visual,FOGÃO,23/08/2018 11:46,today 1-m
+8,Gás,7,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+9,Refrigerador,6,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+10,Consul,5,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+11,Casas Bahia,5,Empresa,FOGÃO,23/08/2018 11:46,today 1-m
+12,Cozinha,5,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+13,Mesa,4,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+14,Churrasco,4,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+15,Magazine Luiza,3,Companhia,FOGÃO,23/08/2018 11:46,today 1-m
+16,Panela,2,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+17,Piso,2,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+18,Esmaltec,2,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+19,Pia,2,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+20,Armário,2,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+21,Pontofrio,2,Empresa,FOGÃO,23/08/2018 11:46,today 1-m
+22,fogão a gás,2,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+23,Ricardo Eletro,2,Empresa,FOGÃO,23/08/2018 11:46,today 1-m
+24,Forno de micro-ondas,2,Assunto,FOGÃO,23/08/2018 11:46,today 1-m
+0,Ventilador,100,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+1,Teto,29,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+2,Ventilador de teto,24,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+3,Ar,7,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+4,Motor,6,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+5,Controlo remoto,5,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+6,Instalação,4,Arte,VENTILADOR,23/08/2018 11:46,today 1-m
+7,Turbocompressor,4,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+8,Ar-condicionado,4,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+9,Capacitor,3,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+10,Hélice,3,Meio de propulsão,VENTILADOR,23/08/2018 11:46,today 1-m
+11,Refrigerador,2,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+12,Britânia,2,Goiás,VENTILADOR,23/08/2018 11:46,today 1-m
+13,Lâmpada incandescente,2,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+14,Energia,2,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+15,Velocidade,2,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+16,Vento,2,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+17,Ruído,2,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+18,SPIRIT,2,Área industrial no Rio de Janeiro,VENTILADOR,23/08/2018 11:46,today 1-m
+19,Cadence,1,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+20,Leroy Merlin,1,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+21,Repelente de insetos,1,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+22,Coluna,1,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+23,Relé,1,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+24,Condensador,1,Assunto,VENTILADOR,23/08/2018 11:46,today 1-m
+0,Brastemp,100,Empresa,BRASTEMP,23/08/2018 11:46,today 1-m
+1,Refrigerador,34,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+2,Máquina de lavar roupa,26,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+3,Máquina,24,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+4,lavar,23,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+5,Fogão,18,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+6,Litro,11,Unidade de medida,BRASTEMP,23/08/2018 11:46,today 1-m
+7,Aço inoxidável,11,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+8,Forno,10,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+9,Forno de micro-ondas,8,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+10,Roupa,7,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+11,Fogão,6,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+12,Máquina de lavar louça,6,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+13,Electrolux,5,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+14,Casas Bahia,4,Empresa,BRASTEMP,23/08/2018 11:46,today 1-m
+15,Secadora de roupas,3,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+16,Consul,3,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+17,Magazine Luiza,3,Companhia,BRASTEMP,23/08/2018 11:46,today 1-m
+18,Gás,3,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+19,Forno Elétrico,2,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+20,Quilograma,2,Unidade básica,BRASTEMP,23/08/2018 11:46,today 1-m
+21,Técnica,2,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+22,Seca,2,Tipo de desastre,BRASTEMP,23/08/2018 11:46,today 1-m
+23,Adega,2,Assunto,BRASTEMP,23/08/2018 11:46,today 1-m
+24,Pontofrio,2,Empresa,BRASTEMP,23/08/2018 11:46,today 1-m
+0,Cônsul,100,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+1,Consul,83,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+2,Refrigerador,75,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+3,Máquina,33,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+4,Máquina de lavar roupa,32,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+5,Fogão,31,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+6,Litro,28,Unidade de medida,CONSUL,23/08/2018 11:46,today 1-m
+7,lavar,24,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+8,Aço inoxidável,17,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+9,Brastemp,15,Empresa,CONSUL,23/08/2018 11:46,today 1-m
+10,Forno de micro-ondas,14,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+11,Ar,12,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+12,Ar-condicionado,11,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+13,Forno,10,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+14,Fábrica de cerveja,9,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+15,Electrolux,9,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+16,Casas Bahia,9,Empresa,CONSUL,23/08/2018 11:46,today 1-m
+17,Fogão,8,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+18,Magazine Luiza,8,Companhia,CONSUL,23/08/2018 11:46,today 1-m
+19,Vidro,6,Forma de arte visual,CONSUL,23/08/2018 11:46,today 1-m
+20,Manual de instruções,4,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+21,Técnica,4,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+22,BTU,4,Unidade de medida,CONSUL,23/08/2018 11:46,today 1-m
+23,Unidade de tratamento de ar,3,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+24,Gás,3,Assunto,CONSUL,23/08/2018 11:46,today 1-m
+0,Computador,100,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+1,Mesa,6,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+2,Microsoft Windows,6,Sistema operacional,COMPUTADOR,23/08/2018 11:46,today 1-m
+3,Laptop,5,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+4,Unidade central de processamento,3,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+5,Teclado,3,Periférico do computador,COMPUTADOR,23/08/2018 11:46,today 1-m
+6,Dell,3,Empresa,COMPUTADOR,23/08/2018 11:46,today 1-m
+7,Wi-Fi,3,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+8,Computador pessoal,3,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+9,Senha,3,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+10,Instalação,3,Computação,COMPUTADOR,23/08/2018 11:46,today 1-m
+11,Monitor de vídeo,2,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+12,Gamer,2,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+13,Arquivo,2,Tipo de organização,COMPUTADOR,23/08/2018 11:46,today 1-m
+14,Rede de computadores,2,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+15,Positivo Tecnologia,2,Empresa,COMPUTADOR,23/08/2018 11:46,today 1-m
+16,Memória,2,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+17,Unidade de disco rígido,2,Periférico do computador,COMPUTADOR,23/08/2018 11:46,today 1-m
+18,Intel Core i5,2,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+19,Sistema operativo,2,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+20,Escrivaninha,1,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+21,PC Gamer,1,Revista,COMPUTADOR,23/08/2018 11:46,today 1-m
+22,Estante,1,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+23,Antivírus,1,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+24,Computador quântico,0,Assunto,COMPUTADOR,23/08/2018 11:46,today 1-m
+0,Dell,100,Empresa,DELL,23/08/2018 11:46,today 1-m
+1,Laptop,48,Assunto,DELL,23/08/2018 11:46,today 1-m
+2,Dell Inspiron,19,Assunto,DELL,23/08/2018 11:46,today 1-m
+3,Intel Core i5,9,Assunto,DELL,23/08/2018 11:46,today 1-m
+4,Intel Core i7,7,Processador do computador,DELL,23/08/2018 11:46,today 1-m
+5,Driver de dispositivo,7,Assunto,DELL,23/08/2018 11:46,today 1-m
+6,Microsoft Windows,6,Sistema operacional,DELL,23/08/2018 11:46,today 1-m
+7,Computador,6,Assunto,DELL,23/08/2018 11:46,today 1-m
+8,Monitor de vídeo,4,Assunto,DELL,23/08/2018 11:46,today 1-m
+9,Intel Core i3,4,Processador do computador,DELL,23/08/2018 11:46,today 1-m
+10,Gamer,4,Assunto,DELL,23/08/2018 11:46,today 1-m
+11,Intel,3,Empresa,DELL,23/08/2018 11:46,today 1-m
+12,Display,3,Assunto,DELL,23/08/2018 11:46,today 1-m
+13,Acer Inc.,3,Empresa,DELL,23/08/2018 11:46,today 1-m
+14,Teclado,3,Periférico do computador,DELL,23/08/2018 11:46,today 1-m
+15,Dell XPS,3,Computador,DELL,23/08/2018 11:46,today 1-m
+16,Bateria,3,Eletricidade,DELL,23/08/2018 11:46,today 1-m
+17,Dell Vostro,3,Assunto,DELL,23/08/2018 11:46,today 1-m
+18,Unidade de disco rígido,3,Periférico do computador,DELL,23/08/2018 11:46,today 1-m
+19,Lenovo,3,Empresa,DELL,23/08/2018 11:46,today 1-m
+20,Windows 10,3,Sistema operacional,DELL,23/08/2018 11:46,today 1-m
+21,ASUS,2,Empresa,DELL,23/08/2018 11:46,today 1-m
+22,Memória de acesso aleatório,2,Classe do periférico do computador,DELL,23/08/2018 11:46,today 1-m
+23,OptiPlex,2,Assunto,DELL,23/08/2018 11:46,today 1-m
+24,Intel Core,2,Processador do computador,DELL,23/08/2018 11:46,today 1-m
+0,Sony,100,Fabricante do computador,SONY,23/08/2018 11:46,today 1-m
+1,Xperia,17,Linha do produto,SONY,23/08/2018 11:46,today 1-m
+2,Televisor,16,Assunto,SONY,23/08/2018 11:46,today 1-m
+3,Telefone celular,10,Assunto,SONY,23/08/2018 11:46,today 1-m
+4,Vegas Pro,10,Software,SONY,23/08/2018 11:46,today 1-m
+5,Som,8,Assunto,SONY,23/08/2018 11:46,today 1-m
+6,VAIO,7,Empresa,SONY,23/08/2018 11:46,today 1-m
+7,Câmera,7,Assunto,SONY,23/08/2018 11:46,today 1-m
+8,Sony Mobile Communications,6,Empresa,SONY,23/08/2018 11:46,today 1-m
+9,BRAVIA,6,Assunto,SONY,23/08/2018 11:46,today 1-m
+10,Polegada,4,Unidade de comprimento,SONY,23/08/2018 11:46,today 1-m
+11,Laptop,4,Assunto,SONY,23/08/2018 11:46,today 1-m
+12,Televisor conectado,4,Assunto,SONY,23/08/2018 11:46,today 1-m
+13,Resolução 4K,4,Assunto,SONY,23/08/2018 11:46,today 1-m
+14,Sony Xperia Z3,3,Assunto,SONY,23/08/2018 11:46,today 1-m
+15,LG Corporation,3,Corporação,SONY,23/08/2018 11:46,today 1-m
+16,Bluetooth,3,Assunto,SONY,23/08/2018 11:46,today 1-m
+17,PlayStation 4,3,Assunto,SONY,23/08/2018 11:46,today 1-m
+18,Auscultadores,3,Assunto,SONY,23/08/2018 11:46,today 1-m
+19,Caixa acústica,3,Assunto,SONY,23/08/2018 11:46,today 1-m
+20,Sony Xperia Z2,2,Assunto,SONY,23/08/2018 11:46,today 1-m
+21,Diodo emissor de luz,2,Assunto,SONY,23/08/2018 11:46,today 1-m
+22,PlayStation,2,Linha do produto,SONY,23/08/2018 11:46,today 1-m
+23,Home theater,2,Assunto,SONY,23/08/2018 11:46,today 1-m
+24,Bateria,2,Eletricidade,SONY,23/08/2018 11:46,today 1-m
+0,Amazon.com,100,Empresa,AMAZON,23/08/2018 11:46,today 1-m
+1,Estados Unidos,11,País na América do Norte,AMAZON,23/08/2018 11:46,today 1-m
+2,Amazon Prime,7,Assunto,AMAZON,23/08/2018 11:46,today 1-m
+3,Livro,6,Assunto,AMAZON,23/08/2018 11:46,today 1-m
+4,Kindle,4,Linha do produto,AMAZON,23/08/2018 11:46,today 1-m
+5,Livraria Saraiva,3,Empresa,AMAZON,23/08/2018 11:46,today 1-m
+6,Amazon Prime Video,3,Assunto,AMAZON,23/08/2018 11:46,today 1-m
+7,Dólar dos Estados Unidos,2,Moeda,AMAZON,23/08/2018 11:46,today 1-m
+8,eBay,2,Empresa,AMAZON,23/08/2018 11:46,today 1-m
+9,Amazon Web Services,2,Assunto,AMAZON,23/08/2018 11:46,today 1-m
+10,Cupom de desconto,1,Assunto,AMAZON,23/08/2018 11:46,today 1-m
+11,Livro digital,1,Encadernação do livro,AMAZON,23/08/2018 11:46,today 1-m
+12,Narguilé,1,Assunto,AMAZON,23/08/2018 11:46,today 1-m
+13,Reino Unido,1,País na Europa,AMAZON,23/08/2018 11:46,today 1-m
+14,Apple,1,Empresa,AMAZON,23/08/2018 11:46,today 1-m
+15,Walmart,1,Companhia,AMAZON,23/08/2018 11:46,today 1-m
+16,Best Buy,1,Empresa,AMAZON,23/08/2018 11:46,today 1-m
+17,Amazon Music,0,Assunto,AMAZON,23/08/2018 11:46,today 1-m
+18,Fnac,0,Empresa,AMAZON,23/08/2018 11:46,today 1-m
+19,Amazon EC2,0,Software,AMAZON,23/08/2018 11:46,today 1-m
+20,.ca,0,Assunto,AMAZON,23/08/2018 11:46,today 1-m
+21,Relógio inteligente,0,Assunto,AMAZON,23/08/2018 11:46,today 1-m
+22,Garmin Forerunner,0,Assunto,AMAZON,23/08/2018 11:46,today 1-m
+0,Lojas Americanas,100,Empresa,LOJAS AMERICANAS,23/08/2018 11:46,today 1-m
+1,Casas Bahia,5,Empresa,LOJAS AMERICANAS,23/08/2018 11:46,today 1-m
+2,Magazine Luiza,4,Companhia,LOJAS AMERICANAS,23/08/2018 11:46,today 1-m
+3,Oferta,3,Assunto,LOJAS AMERICANAS,23/08/2018 11:46,today 1-m
+4,Extra,2,Rede varejista,LOJAS AMERICANAS,23/08/2018 11:46,today 1-m
+5,Pontofrio,2,Empresa,LOJAS AMERICANAS,23/08/2018 11:46,today 1-m
+6,Ricardo Eletro,1,Empresa,LOJAS AMERICANAS,23/08/2018 11:46,today 1-m
+7,Walmart,1,Companhia,LOJAS AMERICANAS,23/08/2018 11:46,today 1-m
+8,Submarino,1,Tipo de embarcação,LOJAS AMERICANAS,23/08/2018 11:46,today 1-m
+9,Loja,1,Assunto,LOJAS AMERICANAS,23/08/2018 11:46,today 1-m
+10,Shoptime,1,Empresa,LOJAS AMERICANAS,23/08/2018 11:46,today 1-m
+11,Lojas Marisa,1,Assunto,LOJAS AMERICANAS,23/08/2018 11:46,today 1-m
+0,Refrigerador,100,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+1,Brastemp,10,Empresa,GELADEIRA,23/08/2018 13:35,today 3-m
+2,Aço inoxidável,9,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+3,Electrolux,7,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+4,Litro,7,Unidade de medida,GELADEIRA,23/08/2018 13:35,today 3-m
+5,Porta,4,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+6,Fogão,3,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+7,Casas Bahia,3,Empresa,GELADEIRA,23/08/2018 13:35,today 3-m
+8,Pudim,2,Alimento,GELADEIRA,23/08/2018 13:35,today 3-m
+9,Duplex,2,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+10,Panasonic,2,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+11,Íman,1,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+12,Adesivo,1,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+13,Máquina de lavar roupa,1,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+14,lavar,1,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+15,Borracha,1,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+16,Forno de micro-ondas,1,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+17,Cônsul,1,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+18,Armário,1,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+19,Fogão,1,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+20,Eletrodoméstico,0,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+21,Forno Elétrico,0,Assunto,GELADEIRA,23/08/2018 13:35,today 3-m
+22,Watt,0,Unidade de potência,GELADEIRA,23/08/2018 13:35,today 3-m
+23,Alface,0,Alimento,GELADEIRA,23/08/2018 13:35,today 3-m
+0,Fogão,100,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+1,Fogão a lenha,18,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+2,Forno,10,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+3,Brastemp,8,Empresa,FOGÃO,23/08/2018 13:35,today 3-m
+4,Fogão,8,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+5,Aço inoxidável,7,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+6,Electrolux,6,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+7,Vidro,5,Forma de arte visual,FOGÃO,23/08/2018 13:35,today 3-m
+8,Gás,5,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+9,Mesa,4,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+10,Churrasco,4,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+11,Refrigerador,4,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+12,Casas Bahia,4,Empresa,FOGÃO,23/08/2018 13:35,today 3-m
+13,Cozinha,3,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+14,Consul,3,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+15,Ferro,1,Elemento químico,FOGÃO,23/08/2018 13:35,today 3-m
+16,Esmaltec,1,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+17,Pia,1,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+18,fogão a gás,1,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+19,Fogão De Lenha,1,Canção de Chitãozinho & Xororó,FOGÃO,23/08/2018 13:35,today 3-m
+20,Armário,1,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+21,Ferro fundido,1,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+22,Chaminé,0,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+23,Novo Mundo,0,Assunto,FOGÃO,23/08/2018 13:35,today 3-m
+24,Ecologia,0,Campo de estudo,FOGÃO,23/08/2018 13:35,today 3-m
+0,Ventilador,100,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+1,Teto,28,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+2,Ventilador de teto,25,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+3,Ar,7,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+4,Motor,7,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+5,Turbocompressor,5,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+6,Ar-condicionado,5,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+7,Controlo remoto,4,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+8,Mesa,3,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+9,Instalação,3,Arte,VENTILADOR,23/08/2018 13:35,today 3-m
+10,Capacitor,3,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+11,Refrigerador,3,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+12,Hélice,2,Meio de propulsão,VENTILADOR,23/08/2018 13:35,today 3-m
+13,Velocidade,2,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+14,Centímetro,2,Unidade de comprimento,VENTILADOR,23/08/2018 13:35,today 3-m
+15,Energia,2,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+16,Lâmpada incandescente,1,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+17,Força,1,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+18,Respirador,1,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+19,Britânia,1,Goiás,VENTILADOR,23/08/2018 13:35,today 3-m
+20,Ruído,1,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+21,Exaustor,1,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+22,Leroy Merlin,1,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+23,Radiador,1,Assunto,VENTILADOR,23/08/2018 13:35,today 3-m
+24,Chevrolet Corsa,1,Modelo do automóvel,VENTILADOR,23/08/2018 13:35,today 3-m
+0,Brastemp,100,Empresa,BRASTEMP,23/08/2018 13:35,today 3-m
+1,Refrigerador,26,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+2,Máquina de lavar roupa,21,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+3,Máquina,18,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+4,lavar,17,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+5,Fogão,13,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+6,Aço inoxidável,8,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+7,Litro,8,Unidade de medida,BRASTEMP,23/08/2018 13:35,today 3-m
+8,Forno de micro-ondas,7,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+9,Forno,6,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+10,Electrolux,5,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+11,Fogão,4,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+12,Máquina de lavar louça,4,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+13,Secadora de roupas,2,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+14,Consul,2,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+15,Quilograma,2,Unidade básica,BRASTEMP,23/08/2018 13:35,today 3-m
+16,Forno Elétrico,2,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+17,Seca,2,Tipo de desastre,BRASTEMP,23/08/2018 13:35,today 3-m
+18,Manual de instruções,1,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+19,Pontofrio,1,Empresa,BRASTEMP,23/08/2018 13:35,today 3-m
+20,Cônsul,1,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+21,B.blend Office,0,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+22,Mecanismo,0,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+23,Capacitor,0,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+24,Fusível,0,Assunto,BRASTEMP,23/08/2018 13:35,today 3-m
+0,Cônsul,100,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+1,Consul,80,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+2,Refrigerador,73,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+3,Máquina de lavar roupa,32,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+4,Fogão,32,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+5,Máquina,28,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+6,Litro,24,Unidade de medida,CONSUL,23/08/2018 13:35,today 3-m
+7,lavar,23,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+8,Aço inoxidável,15,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+9,Ar,15,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+10,Brastemp,12,Empresa,CONSUL,23/08/2018 13:35,today 3-m
+11,Forno de micro-ondas,11,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+12,Ar-condicionado,10,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+13,Electrolux,9,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+14,Forno,7,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+15,Fábrica de cerveja,7,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+16,Fogão,7,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+17,Casas Bahia,6,Empresa,CONSUL,23/08/2018 13:35,today 3-m
+18,Vidro,5,Forma de arte visual,CONSUL,23/08/2018 13:35,today 3-m
+19,Técnica,4,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+20,BTU,4,Unidade de medida,CONSUL,23/08/2018 13:35,today 3-m
+21,Quilograma,3,Unidade básica,CONSUL,23/08/2018 13:35,today 3-m
+22,Manual de instruções,3,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+23,Unidade de tratamento de ar,3,Assunto,CONSUL,23/08/2018 13:35,today 3-m
+24,Ricardo Eletro,3,Empresa,CONSUL,23/08/2018 13:35,today 3-m
+0,Computador,100,Assunto,COMPUTADOR,23/08/2018 13:35,today 3-m
+1,Mesa,4,Assunto,COMPUTADOR,23/08/2018 13:35,today 3-m
+2,Microsoft Windows,4,Sistema operacional,COMPUTADOR,23/08/2018 13:35,today 3-m
+3,Laptop,4,Assunto,COMPUTADOR,23/08/2018 13:35,today 3-m
+4,Teclado,3,Periférico do computador,COMPUTADOR,23/08/2018 13:35,today 3-m
+5,Unidade central de processamento,2,Assunto,COMPUTADOR,23/08/2018 13:35,today 3-m
+6,Dell,2,Empresa,COMPUTADOR,23/08/2018 13:35,today 3-m
+7,Senha,2,Assunto,COMPUTADOR,23/08/2018 13:35,today 3-m
+8,Computador pessoal,2,Assunto,COMPUTADOR,23/08/2018 13:35,today 3-m
+9,Gamer,2,Assunto,COMPUTADOR,23/08/2018 13:35,today 3-m
+10,Arquivo,2,Tipo de organização,COMPUTADOR,23/08/2018 13:35,today 3-m
+11,Windows 10,2,Sistema operacional,COMPUTADOR,23/08/2018 13:35,today 3-m
+12,Monitor de vídeo,2,Assunto,COMPUTADOR,23/08/2018 13:35,today 3-m
+13,Wi-Fi,2,Assunto,COMPUTADOR,23/08/2018 13:35,today 3-m
+14,Instalação,2,Computação,COMPUTADOR,23/08/2018 13:35,today 3-m
+15,Windows 7,1,Sistema operacional,COMPUTADOR,23/08/2018 13:35,today 3-m
+16,Rede de computadores,1,Assunto,COMPUTADOR,23/08/2018 13:35,today 3-m
+17,Positivo Tecnologia,1,Empresa,COMPUTADOR,23/08/2018 13:35,today 3-m
+18,Intel Core i5,1,Assunto,COMPUTADOR,23/08/2018 13:35,today 3-m
+19,computador de secretária,1,Assunto,COMPUTADOR,23/08/2018 13:35,today 3-m
+20,Intel Core,0,Processador do computador,COMPUTADOR,23/08/2018 13:35,today 3-m
+21,Cópia de segurança,0,Assunto,COMPUTADOR,23/08/2018 13:35,today 3-m
+22,Manutenção de computador,0,Assunto,COMPUTADOR,23/08/2018 13:35,today 3-m
+23,AOC International,0,Empresa,COMPUTADOR,23/08/2018 13:35,today 3-m
+24,Terabyte,0,Unidade de medida,COMPUTADOR,23/08/2018 13:35,today 3-m
+0,Dell,100,Empresa,DELL,23/08/2018 13:35,today 3-m
+1,Laptop,31,Assunto,DELL,23/08/2018 13:35,today 3-m
+2,Dell Inspiron,13,Assunto,DELL,23/08/2018 13:35,today 3-m
+3,Intel Core i5,6,Assunto,DELL,23/08/2018 13:35,today 3-m
+4,Intel Core i7,6,Processador do computador,DELL,23/08/2018 13:35,today 3-m
+5,Driver de dispositivo,5,Assunto,DELL,23/08/2018 13:35,today 3-m
+6,Microsoft Windows,4,Sistema operacional,DELL,23/08/2018 13:35,today 3-m
+7,Computador,4,Assunto,DELL,23/08/2018 13:35,today 3-m
+8,Intel Core i3,3,Processador do computador,DELL,23/08/2018 13:35,today 3-m
+9,Teclado,3,Periférico do computador,DELL,23/08/2018 13:35,today 3-m
+10,Intel,3,Empresa,DELL,23/08/2018 13:35,today 3-m
+11,Bateria,3,Eletricidade,DELL,23/08/2018 13:35,today 3-m
+12,Acer Inc.,2,Empresa,DELL,23/08/2018 13:35,today 3-m
+13,Dell Vostro,2,Assunto,DELL,23/08/2018 13:35,today 3-m
+14,Monitor de vídeo,2,Assunto,DELL,23/08/2018 13:35,today 3-m
+15,Dell XPS,2,Computador,DELL,23/08/2018 13:35,today 3-m
+16,Gamer,2,Assunto,DELL,23/08/2018 13:35,today 3-m
+17,Lenovo,2,Empresa,DELL,23/08/2018 13:35,today 3-m
+18,Windows 10,2,Sistema operacional,DELL,23/08/2018 13:35,today 3-m
+19,Unidade de disco rígido,2,Periférico do computador,DELL,23/08/2018 13:35,today 3-m
+20,Display,2,Assunto,DELL,23/08/2018 13:35,today 3-m
+21,Unidade de Estado Sólido,2,Assunto,DELL,23/08/2018 13:35,today 3-m
+22,Hewlett-Packard,2,Companhia,DELL,23/08/2018 13:35,today 3-m
+23,Intel Core,2,Processador do computador,DELL,23/08/2018 13:35,today 3-m
+24,Memória de acesso aleatório,1,Classe do periférico do computador,DELL,23/08/2018 13:35,today 3-m
+0,Sony,100,Fabricante do computador,SONY,23/08/2018 13:35,today 3-m
+1,Televisor,15,Assunto,SONY,23/08/2018 13:35,today 3-m
+2,Xperia,15,Linha do produto,SONY,23/08/2018 13:35,today 3-m
+3,Vegas Pro,7,Software,SONY,23/08/2018 13:35,today 3-m
+4,Som,6,Assunto,SONY,23/08/2018 13:35,today 3-m
+5,Sony Mobile Communications,6,Empresa,SONY,23/08/2018 13:35,today 3-m
+6,VAIO,5,Empresa,SONY,23/08/2018 13:35,today 3-m
+7,Câmera,5,Assunto,SONY,23/08/2018 13:35,today 3-m
+8,BRAVIA,5,Assunto,SONY,23/08/2018 13:35,today 3-m
+9,Televisor conectado,4,Assunto,SONY,23/08/2018 13:35,today 3-m
+10,Resolução 4K,4,Assunto,SONY,23/08/2018 13:35,today 3-m
+11,Polegada,3,Unidade de comprimento,SONY,23/08/2018 13:35,today 3-m
+12,Sony Xperia Z3,3,Assunto,SONY,23/08/2018 13:35,today 3-m
+13,Laptop,2,Assunto,SONY,23/08/2018 13:35,today 3-m
+14,Auscultadores,2,Assunto,SONY,23/08/2018 13:35,today 3-m
+15,Diodo emissor de luz,2,Assunto,SONY,23/08/2018 13:35,today 3-m
+16,LG Corporation,2,Corporação,SONY,23/08/2018 13:35,today 3-m
+17,Bluetooth,2,Assunto,SONY,23/08/2018 13:35,today 3-m
+18,Display,2,Assunto,SONY,23/08/2018 13:35,today 3-m
+19,Sony Xperia Z5,2,Assunto,SONY,23/08/2018 13:35,today 3-m
+20,Bateria,2,Eletricidade,SONY,23/08/2018 13:35,today 3-m
+21,Sony Xperia Z2,2,Assunto,SONY,23/08/2018 13:35,today 3-m
+22,PlayStation 4,1,Assunto,SONY,23/08/2018 13:35,today 3-m
+23,Smartphone,1,Plataforma de computação,SONY,23/08/2018 13:35,today 3-m
+24,Cyber-shot,1,Linha do produto,SONY,23/08/2018 13:35,today 3-m
+0,Amazon.com,100,Empresa,AMAZON,23/08/2018 13:35,today 3-m
+1,Estados Unidos,9,País na América do Norte,AMAZON,23/08/2018 13:35,today 3-m
+2,Amazon Prime,6,Assunto,AMAZON,23/08/2018 13:35,today 3-m
+3,Livro,6,Assunto,AMAZON,23/08/2018 13:35,today 3-m
+4,Livraria Saraiva,2,Empresa,AMAZON,23/08/2018 13:35,today 3-m
+5,Kindle,2,Linha do produto,AMAZON,23/08/2018 13:35,today 3-m
+6,Amazon Prime Video,2,Assunto,AMAZON,23/08/2018 13:35,today 3-m
+7,eBay,2,Empresa,AMAZON,23/08/2018 13:35,today 3-m
+8,Amazon Web Services,1,Assunto,AMAZON,23/08/2018 13:35,today 3-m
+9,Reino Unido,1,País na Europa,AMAZON,23/08/2018 13:35,today 3-m
+10,Cupom de desconto,1,Assunto,AMAZON,23/08/2018 13:35,today 3-m
+11,Amazônia,1,Floresta no Amazonas,AMAZON,23/08/2018 13:35,today 3-m
+12,Streaming,0,Formato do arquivo,AMAZON,23/08/2018 13:35,today 3-m
+13,Kindle Direct Publishing,0,Assunto,AMAZON,23/08/2018 13:35,today 3-m
+14,Amazon Appstore,0,Assunto,AMAZON,23/08/2018 13:35,today 3-m
+15,Nintendo Switch,0,Assunto,AMAZON,23/08/2018 13:35,today 3-m
+16,Gift card,0,Assunto,AMAZON,23/08/2018 13:35,today 3-m
+17,HBO,0,Canal de televisão,AMAZON,23/08/2018 13:35,today 3-m
+0,Lojas Americanas,100,Empresa,LOJAS AMERICANAS,23/08/2018 13:35,today 3-m
+1,Casas Bahia,6,Empresa,LOJAS AMERICANAS,23/08/2018 13:35,today 3-m
+2,Magazine Luiza,4,Companhia,LOJAS AMERICANAS,23/08/2018 13:35,today 3-m
+3,Oferta,2,Assunto,LOJAS AMERICANAS,23/08/2018 13:35,today 3-m
+4,Pontofrio,2,Empresa,LOJAS AMERICANAS,23/08/2018 13:35,today 3-m
+5,Extra,2,Rede varejista,LOJAS AMERICANAS,23/08/2018 13:35,today 3-m
+6,Ricardo Eletro,1,Empresa,LOJAS AMERICANAS,23/08/2018 13:35,today 3-m
+7,Walmart,1,Companhia,LOJAS AMERICANAS,23/08/2018 13:35,today 3-m
+8,Loja,1,Assunto,LOJAS AMERICANAS,23/08/2018 13:35,today 3-m
+9,Shoptime,1,Empresa,LOJAS AMERICANAS,23/08/2018 13:35,today 3-m

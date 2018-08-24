@@ -1,10 +1,12 @@
 from Validation.Method.Connection_Network import Valida_Connection
 import os 
 from GoogleTrends import GoogleTrends
+
 PATH = os.getcwd()
+
 def Report_Option():    
     Valida_Connection()
-    print("===================SELECIONE UMA DAS OPÇÕES ABAIXO=================\n")
+    print("\n")
     print(" 1 - CONSULTAS RELACIONADAS | TRARÁ OS DADOS REFERÊNTE A CONSULTAS RELACIONADAS A KEYWORD")    
     print(" 2 - ASSUNTOS RELACIONADOS  | TRARÁ OS DADOS REFERÊNTE A ASSUNTOS RELACIONADOS A KEYWORD")               
     print(" 3 - INTERESSE POR TEMPO    | TRARÁ OS DADOS REFERÊNTE AS KEYWORDS POR INTERESSE E TEMPO")                  
@@ -14,36 +16,31 @@ def Report_Option():
     print("\n")  
     validador = False
     while validador == False:
-        alternativa = str(input(" DIGITE O NÚMERO DA ALTERNATIVA:"))
+        alternativa = str(input("DIGITE O NÚMERO DA ALTERNATIVA:"))
         print("\n")
         os.makedirs("{0}/FILES/Excel/".format(PATH),exist_ok=True)
         if alternativa.isnumeric()==True and int(alternativa)==1:
-            Date =  OptionDate()
-            ModeSave = ModoSave() 
-            GoogleTrends.NewRelatedQueries(Date, ModeSave)              
+            Date =  OptionDate() 
+            GoogleTrends.NewRelatedQueries(Date)              
             validador = True
         elif alternativa.isnumeric()==True and int(alternativa)==2:
             Date =  OptionDate()
-            ModeSave = ModoSave()
-            GoogleTrends.NewRelatedTopics(Date, ModeSave)
+            GoogleTrends.NewRelatedTopics(Date)
             validador = True
         elif alternativa.isnumeric()==True and int(alternativa)==3:
             Date =  OptionDate()
-            ModeSave = ModoSave()
-            GoogleTrends.NewOverTime(Date, ModeSave)
+            GoogleTrends.NewOverTime(Date)
             validador = True
         elif alternativa.isnumeric()==True and int(alternativa)==4:
             Date =  OptionDate()
-            ModeSave = ModoSave()
-            GoogleTrends.NewByRegion(Date, ModeSave)
+            GoogleTrends.NewByRegion(Date)
             validador = True
         elif alternativa.isnumeric()==True and int(alternativa)==5:
             Date =  OptionDate()
-            ModeSave = ModoSave()
-            GoogleTrends.NewOverTime(Date, ModeSave)
-            GoogleTrends.NewByRegion(Date, ModeSave)
-            GoogleTrends.NewRelatedTopics(Date, ModeSave)
-            GoogleTrends.NewRelatedQueries(Date, ModeSave)
+            GoogleTrends.NewOverTime(Date)
+            GoogleTrends.NewByRegion(Date)
+            GoogleTrends.NewRelatedTopics(Date)
+            GoogleTrends.NewRelatedQueries(Date)
             validador = True    
         elif alternativa.isnumeric()==True and int(alternativa)==5:
             v = 0
@@ -55,9 +52,10 @@ def Report_Option():
                 print("O PROGRAMA SERÁ FECHADO EM {0} SEGUNDOS".format(x))
             sys.exit()
         else:
-            print("OPÇÃO INVÁLIDA, DIGITE APENAS O NÚMERO DA ALTERNATIVA!\n")
+            print("|===================================ALTERNATIVA INVÁLIDA================================|\n")
+
 def OptionDate(): 
-    print("===================SELECIONE UMA DAS OPÇÕES ABAIXO=================\n")
+
     print("     BASE  |   TEMPO   | TITULO")
     print(" 1 - AGORA |   1-H     | BUSCA DADOS DA ÚLTIMA HORA, SENDO AGORA O HORÁRIO BASE!")
     print(" 2 - AGORA |   1-D     | BUSCA DADOS DE 1 DIA, SENDO HOJE O DIA DE BASE!")
@@ -70,7 +68,7 @@ def OptionDate():
     print("\n")
     valida = False
     while valida == False: 
-        alternativa = str(input(" DIGITE O NÚMERO DA ALTERNATIVA:"))
+        alternativa = str(input("DIGITE O NÚMERO DA ALTERNATIVA:"))
         print("\n")            
         if alternativa.isnumeric()==True and int(alternativa)==1:
             return "now 1-H"
@@ -100,23 +98,7 @@ def OptionDate():
             return "all"
             valida = True
         else:
-            print("OPÇÃO INVÁLIDA, DIGITE APENAS O NÚMERO DA ALTERNATIVA!\n")
+            print("===========================ALTERNATIVA INVÁLIDA========================\n")
             valida = False
-def ModoSave():
-    print("===================SELECIONE UMA DAS OPÇÕES ABAIXO=================\n")
-    print(" 1 - SALVAR EM CSV")
-    print(" 2 - SALVAR EM GOOGLE SHEETS")
-    print(" 3 - SALVAR EM AMBOS\n")
-    
-    while True:
-        opcao = str(input(" DIGITA O NÚMERO DA ALTERNATIVA:"))
-        if opcao.isnumeric()==True and opcao=='1':
-            return int(opcao)
-        elif opcao.isnumeric()==True and opcao=='2':
-            return int(opcao)
-        elif opcao.isnumeric()==True and opcao=='3':
-            return int(opcao)
-        else:
-            print("OPÇÃO INVÁLIDA, DIGITE APENAS O NÚMERO DA ALTERNATIVA!\n")
 
-Report_Option()    
+Report_Option()      

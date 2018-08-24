@@ -7,12 +7,14 @@ from Saves.Save_Csv import *
 from Saves.Save_BigQuery import *
 from Saves.Save_GSheets import *
 
+
+
 PATH = os.getcwd()
 
 class GoogleTrends():
     def __init__():
         pass
-    def NewByRegion(self, ModeSave):
+    def NewByRegion(self):
         global PATH
         Local = "{0}/FILES/Excel/ByRegion.csv".format(PATH)
         i = 1
@@ -29,19 +31,14 @@ class GoogleTrends():
                     interest_by_region_df.to_csv(Local)
                     df_dataFrame = pd.DataFrame(pd.read_csv(Local))
                     os.remove(Local)
-                    if ModeSave==1:
-                        Save_Csv.PrepareValue(df_dataFrame,'geoName', 'By_Region', KeyWords, self)
-                    elif ModeSave==2:
-                        PrepareList('By_Region', df_dataFrame, "geoName",KeyWords, self)
-                    elif ModeSave==3:
-                        Save_Csv.PrepareValue(df_dataFrame,'geoName', 'By_Region', KeyWords, self)
-                        PrepareList('By_Region', df_dataFrame, "geoName",KeyWords, self)
+                    Save_Csv.PrepareValue(df_dataFrame,'geoName', 'By_Region', KeyWords, self)
+                    PrepareList('By_Region', df_dataFrame, "geoName",KeyWords, self)
                 i = i + 1
             print(".................TESTE << POR REGIÃO >> FINALIZADO.................\n")
         except Exception as Erro:
             print("def New_By_Region -> Ocorreu o Erro:{0}".format(Erro))
         ZerarI()
-    def NewOverTime(self, ModeSave):
+    def NewOverTime(self):
         global PATH
         Local = "{0}/FILES/Excel/OverTime.csv".format(PATH)
         i = 1
@@ -58,19 +55,14 @@ class GoogleTrends():
                     interest_over_time_df.to_csv(Local, decimal=',')
                     df_dataFrame = pd.DataFrame(pd.read_csv(Local))
                     os.remove(Local)
-                    if ModeSave==1:
-                        Save_Csv.PrepareValue(df_dataFrame, 'date', 'Over_Time', KeyWords, self)
-                    elif ModeSave==2:
-                        PrepareList('Over_Time', df_dataFrame, 'date', KeyWords, self)
-                    elif ModeSave==3:
-                        Save_Csv.PrepareValue(df_dataFrame, 'date', 'Over_Time', KeyWords, self)
-                        PrepareList('Over_Time', df_dataFrame, 'date', KeyWords, self)
+                    Save_Csv.PrepareValue(df_dataFrame, 'date', 'Over_Time', KeyWords, self)
+                    PrepareList('Over_Time', df_dataFrame, 'date', KeyWords, self)
                 i = i + 1
             print(".................TESTE << POR TEMPO >> FINALIZADO.................\n")
         except Exception as Erro:
             print("def New_Over_Time -> Ocorreu o Erro:{0}".format(Erro))  
         ZerarI()
-    def NewRelatedQueries(self, ModeSave):
+    def NewRelatedQueries(self):
         PATH_QUERY = '{0}/FILES/Excel/RelatedQueries.csv'.format(PATH)
         PalavraChave = ListKeyWordsException()
         Time = time.strftime("%d/%m/%Y %H:%M")
@@ -106,18 +98,13 @@ class GoogleTrends():
                     ListValue['Periodo'].append(self)  
                 ListValue.update({'Consultas Relacionadas': list(related_queries_dict[QueryString]['top']["query"])+list(related_queries_dict[QueryString]['rising']["query"])})
                 ListValue.update({'Values': list(related_queries_dict[QueryString]['top']["value"])+list(related_queries_dict[QueryString]['rising']["value"])})
-                if ModeSave==1:
-                    Save_Csv.SaveRelated(ListValue,'{0}'.format(PATH_QUERY))
-                elif ModeSave==2:
-                    PrepareListOverTime('Related_Queries', ListValue)
-                elif ModeSave==3:
-                    Save_Csv.SaveRelated(ListValue,'{0}'.format(PATH_QUERY))
-                    PrepareListOverTime('Related_Queries', ListValue)
-            print("............TESTE << CONSULTAS RELACIONADAS >> FINALIZADO...........\n")   
+                Save_Csv.SaveRelated(ListValue,'{0}'.format(PATH_QUERY))
+                PrepareListOverTime('Related_Queries', ListValue)
+            print(".................TESTE << CONSULTAS RELACIONADAS >> FINALIZADO.................\n")   
         except Exception as Erro:
             print("def NewRelatedQueries ->Ocorreo o Erro:{0}".format(Erro))
-    def NewRelatedTopics(self, ModeSave): 
-        PATH_QUERY = '{0}/FILES/Excel/RelatedTopics.csv'.format(PATH)
+    def NewRelatedTopics(self): 
+        PATH_QUERY = '{0}/FILES/Excel/Assunto_Relacionada.csv'.format(PATH)
         PalavraChave = ListKeyWordsException()
         Time = time.strftime("%d/%m/%Y %H:%M")
         try:
@@ -145,13 +132,8 @@ class GoogleTrends():
                 ListValue.update({'Assuntos Relacionadas': list(related_topcs_dict[QueryString]['title'])})
                 ListValue.update({'Values': list(related_topcs_dict[QueryString]['value'])})
                 ListValue.update({'Tipo': list(related_topcs_dict[QueryString]['type'])})
-                if ModeSave==1:
-                    Save_Csv.SaveRelated(ListValue,'{0}'.format(PATH_QUERY))
-                elif ModeSave==2:
-                    PrepareListOverTime('Related_Topics', ListValue)
-                elif ModeSave==3:
-                    Save_Csv.SaveRelated(ListValue,'{0}'.format(PATH_QUERY))
-                    PrepareListOverTime('Related_Topics', ListValue)
-            print("...........TESTE << ASSUNTOS RELACIONADOS >> FINALIZADO...........\n")   
+                Save_Csv.SaveRelated(ListValue,'{0}'.format(PATH_QUERY))
+                PrepareListOverTime('Related_Topics', ListValue)
+            print(".................TESTE << ASSUNTOS RELACIONADOS >> FINALIZADO.................\n")   
         except Exception as Erro:
             print("def NewRelatedQueries ->Ocorreo o Erro:{0}".format(Erro))

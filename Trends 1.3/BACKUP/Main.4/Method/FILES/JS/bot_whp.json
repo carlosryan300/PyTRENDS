@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bot-carregamento-whp",
+  "private_key_id": "b76767326679c27fe0ecfd01ded1ae7f93334424",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSGscjJH+P7tlf\nb+RFFiK0Z+ucQrQHyKWJamAZHbJCyID3hGf61dQAD4lr8Zokj87Vd+h2RzXUzPPh\nk0Lfd3gqdcLckMNDujL4nhGEbkBKjzRQs2nquvPcnVhmydlhY3UHANHXYA1OeH/f\nIIOAOcYsRuU84hzEpQ7ZZDK6H7v+ZrZxnoEjMNfmx8tKcF12qe8iWXbFUgcJ6LvA\nSRYD37xPMDAmmA/EoWpXUs5fk43Q7JqMNCk64jzlF/EVU9uwz/ZH/73O4DD9mHzf\nGMsdLdYu7ByqtejHn9bV8H/VSB2xUrW/uefpmPTFWrjuMdRpD9M3bNplX2zo1+Pm\n3DeOeVe3AgMBAAECggEABLvbuFv7KWTW4VwyoKfca+onfqOcgMxkuZ4VWjUdrhZS\nz/QPKUsMdfZKDcEpmVQWjR+HGk5SbsZk/E3s5Muns0IB/CXUcHM1vZcTvly2XOrk\nrkJmMYa5Nd0Wf88uc0MVZ1OXM5FGqEaPKWZtiapDkv3QVNKkL7FBKDHzJQrQACEj\nDUnCM7HssYBh/01W2osmiKpGv/8YjnJ9e0PiYidKxiWQ7Lihb/Lv2HEN/VOng1dp\noUOT3yw+oQjYtAg+TzDGvLNrtA7iQtWKEhvkEv1vHCIr/ZaKmHDIvH3IyYTkMCo2\nWLxYgDhNuoFFSPSjrnfqsSGpO4wTEnERO5l87X0KaQKBgQDy9ZiaCFUuXl27qTDq\nDoJm42GVMi6FSDtPReVEGhkzy1j9uIQAy1EpZJJf1NJYIzof0LeRjCGHBgoVNfp4\n5BvC2BlzCbfJZaXEwFvTWd5Cu3mubhooX0flPwYHfSufhiVgLIAFvxY6vD4+BFpF\njLcJFsEBZCggUB0rNuCT5QJ23QKBgQDdYbz3mb5vEUuH1K5HAmtgVUv2rcK0WywZ\n5Ep/1Sp6HlMlInYovYogQRA/HGEEMvaVqTZIxcp8/eawELMq7vtdcuxtvifmB7QC\njqxcncZIhonQcPGSvqa6RWA10i+Liw0jIhFpilCYvy+WXvM4vvGAeJ0DaPFboAWA\nOeVs/Bk9owKBgAFZc9uHKFH1nDeqnObv5bGEmcomWTPMTugFz1wteO5ctsXR/Im0\nl2LPeDCoEfMDXxNGKX7ZdGY3ll6/ygBZ4/2VDa8h4q9vrRgGqXvnB+D/AZICcoq+\n3LtdOj9YZqGgMRzzolJl2U3CNeZKR+YS/gFC6xeC4uYrC75ts5mesADRAoGBANEV\nJiuTANBVPUikDZTzLAZniL8JjQJZuWUav2HMKbn8OfqweXgwyut7h6STYO1eVJU0\noxhH9d3mzqEqpIy/+JdhmvpqxbPzQofHx/IQ8Nw+dJpwkTdO6Ji0PRGX2V+pjFbK\nLjfHcidRKdiTBJNrgxsazvARhSJMF+XqyEwOLKiRAoGAAUM9XBCoZbrCZY2bpkVM\n4+anzJ0RfkTLD/x4aOu601ssCAjtgrzw2pr4X3GHC9RLSKCVFaQMH9/ahHycxsz8\n8XHaLAbxZ2RZ+S+L710hrKhoKjSuFHr0ySh9Re6ACRwitHzCLHKwSEYCRZdLRMtT\nk/ooPL9Dd5ryNjBaCU0CGkQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-carregamento-whp@bot-carregamento-whp.iam.gserviceaccount.com",
+  "client_id": "112534146156112576965",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-carregamento-whp%40bot-carregamento-whp.iam.gserviceaccount.com"
+}
