@@ -7,9 +7,7 @@ from Saves.Save_Csv import *
 from Saves.Save_BigQuery import *
 from Saves.Save_GSheets import *
 
-
 PATH = os.getcwd()
-#class de extração
 
 class GoogleTrends():
     def __init__():
