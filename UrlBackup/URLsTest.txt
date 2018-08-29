@@ -1,0 +1,4 @@
+URL: http://www.webpagetest.org/jsonResult.php?test=180829_RF_ac2c4d1ef99fee790d75c0727c95c8e7 - Data e Hora: 29 Aug 18 14:26:35 
+URL: http://www.webpagetest.org/jsonResult.php?test=180829_9F_0236da3f34e21e56635b4abe3a735df4 - Data e Hora: 29 Aug 18 14:26:35 
+URL: http://www.webpagetest.org/jsonResult.php?test=180829_PR_c29ef9ff971e7d9a1d816b54d76c5f7f - Data e Hora: 29 Aug 18 18:01:41 
+URL: http://www.webpagetest.org/jsonResult.php?test=180829_M1_d551e3f41f52f5b9d889e580d9804c24 - Data e Hora: 29 Aug 18 18:01:41 
