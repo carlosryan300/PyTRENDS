@@ -1,4 +1,4 @@
-#!/data/sfdump/bot_loaded/btp_institucional/bin/python3
+#!/data/sfdump/bot_trends/Google_Trends/bin/python3
 # See http://cens.ioc.ee/projects/f2py2e/
 from __future__ import division, print_function
 

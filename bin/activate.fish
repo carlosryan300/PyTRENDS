@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/data/sfdump/bot_loaded/btp_institucional"
+set -gx VIRTUAL_ENV "/data/sfdump/bot_trends/Google_Trends"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

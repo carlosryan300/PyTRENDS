@@ -1,0 +1,15 @@
+*.json
+*.csv
+*.dll
+*.exe
+*.ps1
+*.bat
+*.pyc
+*.cfg
+*.h
+*.tcl
+*.msg
+*.enc
+
+
+

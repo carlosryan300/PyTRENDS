@@ -1,4 +1,4 @@
-#!/data/sfdump/bot_loaded/btp_institucional/bin/python
+#!/data/sfdump/bot_trends/Google_Trends/bin/python
 
 import sys
 import getopt
